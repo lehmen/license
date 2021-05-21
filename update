@@ -1,0 +1,10 @@
+[
+    {
+        "files": ["colors.js","common.js","nodes.js","request.js","tiktok.js","update.js","utility.js"],
+        "version": "1.0.0.1"
+    },
+    {
+        "files": ["hello.js"],
+        "version": "1.0.0.2"
+    }
+]
